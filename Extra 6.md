@@ -1,4 +1,4 @@
-# Estra X - "Nella Mente di Bill Gates"
+# Estra 6 - "Nella Mente di Bill Gates"
 
 - [X] Perchè i documentari ed i film su Steve jobs abbondano mentre quelli su Bill Gates no ?
   - [ ] Figura di Messia a tutti gli effetti
