@@ -1,0 +1,21 @@
+# Speciali Programmati
+
+- [ ]  Il Server Domestico
+    - [ ]  A chi può servire un server domestico
+    - [ ]  Le potenzialità di FreeNas
+        - [ ]  ZFS come FileSystem
+            - [ ]  Robustezza dei dati storati
+            - [ ]  Snapshot singoli o Programmati
+        - [ ]  Supporto alle VM
+        - [ ]  Rindondanza dei dati come Focus
+        - [ ]  Moltissimi Plugin
+            - [ ]  Gitlab
+            - [ ]  Plex
+            - [ ]  Transmission
+            - [ ]  Backup PC con e senza cifratura
+            - [ ]  Download Automatizzato delle serie tv e film
+            - [ ]  Cloud Privato con Next-Cloud
+            - [ ]  Bugtracker Personalizzati
+        - [ ]  La scelta dei componenti adatti
+        - [ ]  L'installazione di FreeNas
+        - [ ]  Il setting degli account
