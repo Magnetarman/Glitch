@@ -22,8 +22,15 @@
     - Mirror
   - RAIDz1, RAIDz2, RAIDz3
 
-Una volta creata la struttura dei dischi preferita chiamata Pool, bastera andare nella schermata di FreeNas che viene interamente gestito da una schermata via Browser, come tutti i NAS nella sezione **Pools** e da li, creare i diversi dataset dove andare ad inserire i dati.
+Una volta creata la struttura dei dischi preferita chiamata Pool oppure col nome che preferite, bastera andare nella schermata di FreeNas che viene interamente gestito da una schermata via Browser, come tutti i NAS nella sezione **Pools** e da li, creare i diversi dataset dove andare ad inserire i dati.
 
-EX - Un dataset chiamato *Documenti* per tutti i documenti, un altro magari chiamato *Media* dove inserire in sotto cartelle le varie foto, film ecc. Inoltre vi ricordo che potente inserire nel campo delle descrizioni una breve descrizione del dataset in modo che anche se lo chiamate in modo criptico riuscirete facilmente ad identificare l'utilizzo finale. Sotto ecco l'immagine del mio set, ma è a solo scopo informativo.
+EX - Un dataset chiamato *Documenti* per tutti i documenti, un altro magari chiamato *Media* dove inserire in sotto cartelle le varie foto, film ecc. Inoltre vi ricordo che potente inserire nel campo delle descrizioni una breve descrizione del dataset in modo che anche se lo chiamate in modo criptico riuscirete facilmente ad identificare l'utilizzo finale. Sotto ecco [l'immagine](https://github.com/Magnetarman/Glitch/blob/master/Season%202/Extra/FreeNas/Foto/Pools.jpg) del mio set, ma è a solo scopo informativo.
 
+**Attenzione** - Per una corretta configurazione si consiglia nelle impostazioni di creazione del dataset di assegnargli una quota in GB o TB finita di spazio, che può essere sempre variata con un click. infine si consiglia di non assegnare mai più del 70% - 80%
+ dello spazio totale del server in modo da avere sempre le performance massime.
 
+Infatti ZFS inizia ad avere importanti cali di perfomance e di gestione dei dati se vengono superate quelle soglie, creando inutili grattacapi. Bloccando così la dimensione massima occupabile dai diversi dataset quando raggiungeremo la quota massima avremo comunque il 100% delle performance in lettura / scrittura del server e potremmo facilmente cancellare dati non più utili oppure semplicemente procedere all'espansione della capacita dei dischi del server.
+
+Una volta creati i diversi Dataset per renderli visibili in rete e navigabili da Explorer o dal Finder di MacOS bisogna spostarsi nella sezione "Sharing" e da li creare e nominare i vari punti. 
+
+Potrebbe risultare complicato per i neofiti ma basta inserire il percorso */mnt/NomedelPool/Endpoint* e lasciare le impostazioni di Default
