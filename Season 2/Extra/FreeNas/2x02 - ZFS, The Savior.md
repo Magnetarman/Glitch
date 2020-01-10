@@ -34,6 +34,10 @@ Anche Apple nel suo nuovo File System denominato APFS ha integrato alcune tecnol
  
 Per avere una minima idea di quanto sia uno ZettaByte secondo alcuni studi rilasciati da Google, il tuo intero impianto server, inclusi Google Drive, i dati del motore di ricerca, di Gmail e di Youtube arrivano a generare una mole di dati intorno ai 1,2 - 1,4 Zettabyte di dati per cui un FileSystem bello potente.
 
+## Come funziona ZFS
+
+ZFS in pratica è tanto potente grazie alla sua gestione inteliggente dei file. Infatti, come i moderni sistemi operativi per non stressare troppo i dischi presenti nel vostro server tende a salvare la maggior parte delle operazioni fatte in RAM e poi successivamente scriverle in blocco sul disco, preoccupandosi di generare il o i bit di controllo per rendere quel dato verificabile durante lo Scrub dei dischi o recuperabile se qualche disco viene danneggiate durante la procedura di recupero.
+
 ## Perchè il Backup è fondamentale ?
 
 - Una strategia poco funzionale, con la mole di dati di oggi rischia di farci perdere, se non correttamente utilizzata dei ricordi importanti per noi
