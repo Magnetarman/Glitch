@@ -17,10 +17,10 @@
 
 - Come Funziona Freenas
   - Cosa sono le Vdevs
-  - Diversi tipi di raid Software
+  - Diversi tipi di RAID Software
     - Stripe
     - Mirror
-  - RAIDz1, RAIDz2, RAIDz3
+    - RAIDz1, RAIDz2, RAIDz3
 
 Una volta creata la struttura dei dischi preferita chiamata Pool oppure col nome che preferite, bastera andare nella schermata di FreeNas che viene interamente gestito da una schermata via Browser, come tutti i NAS nella sezione **Pools** e da li, creare i diversi dataset dove andare ad inserire i dati.
 

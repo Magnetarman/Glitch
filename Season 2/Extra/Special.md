@@ -3,8 +3,8 @@
 - [ ]  Il Server Domestico
     - [ ]  A chi può servire un server domestico
     - [ ]  Le potenzialità di FreeNas
-        - [ ]  ZFS come FileSystem
-            - [ ]  Robustezza dei dati storati
+        - [X]  ZFS come FileSystem
+            - [X]  Robustezza dei dati storati
             - [ ]  Snapshot singoli o Programmati
         - [ ]  Supporto alle VM
         - [ ]  Rindondanza dei dati come Focus
