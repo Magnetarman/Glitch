@@ -23,3 +23,7 @@ Un server domestisco può essere utile in diversi casi
 - Storage di Dati personali
 - Storage di Dati lavorativi
 - Liberie Musicali e Video
+
+## Centralizzare i Dati
+
+Una tecnica che utilizzo ormai da quasi 10 anni per avere meno grattacapi possibile consiste nel centralizzare i dati più importanti in un unico spazio fisico (Server) ed utilizzare i vari PC solo come unità di elaborazione e manipolazione dei dati, oltre al sistema operativo ed ai programmi necessari. con questo piccolo trucco devo preoccuparmi solo della corretta gestione dei dati sul server, in quanto una corruzione, una perdita oppure una compromissione di dati al di fuori del server ha impatto nullo ed è facile riconfigurare e reinstallare tutto.

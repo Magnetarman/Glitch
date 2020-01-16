@@ -4,7 +4,7 @@
  
 - FreeNas consiglia di utilizzare il suo motore interno di RAID Software invece di avere RAID Hardware in quanto avendo avendo meno layer possibili può assicurare di risolvere facilmente possibili errori e problemi causati durante la conservazione dei dati all’interno del sistema.
 
-- FreeNas gestisce anche, tramite iocage (Sistema nuovo di Jail), dalla versione 11.2 i plugin abbandonando il precedente sistema Warden che aveva alcuni problemi prestazionali e poteva causare delle privilege escalation se non correttamente configurato.  Dalla versione **11.2 -U7** uscita nell'ultima parte del 2019 tra i Fix ha attivato anche la possibilità di aggiornare le Jail tramite un comodo bottone, non funzionante a causa di un bug nelle precedenti release.
+- FreeNas gestisce anche, tramite iocage (Sistema nuovo di Jail), dalla versione 11.2 i plugin abbandonando il precedente sistema Warden che aveva alcuni problemi prestazionali e poteva causare delle privilege escalation se non correttamente configurato.  Dalla versione **11.2 - U7** uscita nell'ultima parte del 2019 tra i Fix ha attivato anche la possibilità di aggiornare le Jail tramite un comodo bottone, non funzionante a causa di un bug nelle precedenti release.
 
 - Tutta questa potenza infine può essere gestita sia da riga di comando per i più smanettoni che da una comodissima interfaccia web che se prima era un buon compromesso ma molto vetusta dal lato design, nelle ultime versione sta venendo gradualmente riscritta in angular e potenziata con diverse funzioni come il potenziamento del servizio rsync per supportare anche push o pull di dati dai maggiori servizi di Cloud Storage.
 
@@ -33,4 +33,12 @@ Infatti ZFS inizia ad avere importanti cali di perfomance e di gestione dei dati
 
 Una volta creati i diversi Dataset per renderli visibili in rete e navigabili da Explorer o dal Finder di MacOS bisogna spostarsi nella sezione "Sharing" e da li creare e nominare i vari punti. 
 
-Potrebbe risultare complicato per i neofiti ma basta inserire il percorso */mnt/NomedelPool/Endpoint* e lasciare le impostazioni di Default
+Potrebbe risultare complicato per i neofiti ma basta inserire il percorso */mnt/NomedelPool/Endpoint* e lasciare le impostazioni di Default.
+
+## FreeNas Vs. TrueNas
+
+True Nas è sostanzialmente la versione a pagamento di FreeNas. infatti questa versione viene ceduta solo con i server venduti direttamente dalla IXSystems. E' praticamente identica alla versione Free e si discosta per il supporto alle Jail ed alle macchine virtuali assente pre questioni di stabilità e sopratutto in relazione al fatto che la versione a pagamento di FreeNas viene utilizzata sopratutto per lo storage massivo di dati in ambito aziendale e quindi la manipolazione degli stessi per merito dei Plugin non viene per nulla considerata.
+
+Oltre a questa differenza sostanziale ha anche una schedule completamente diversa per quanto riguarda gli aggiornamenti. Infatti mentre FreeNas ha di solito un aggiornamento ogni 6 mesi, TrueNas ha un aggiornamento maggiore ogni anno mentre durante questo tempo viene aggiornato in maniera minore sostanzialmente tramite Bugfix.
+
+Infine tutte le modifiche che arrivano a True Nas sono state precendentemente testate su FreeNas per diverso tempo. Per semplificare ulteriormente il ragionamento FreeNas può considerarsi il ramo Beta/Insider di True Nas, ovviamente questi termini non sono assuluti, in quanto FreeNas dal suo magior Update dalla V 11 in poi, tranne qualche piccolo Bug relativo alla nuova interfaccia proposta basata su Angular non mi ha mai dato nessun tipo di problema di affidabilità. 

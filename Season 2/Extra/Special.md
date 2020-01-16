@@ -1,10 +1,11 @@
 # Speciali Programmati
 
 - [ ]  Il Server Domestico
-    - [ ]  A chi può servire un server domestico
-    - [ ]  Le potenzialità di FreeNas
+    - [X]  A chi può servire un server domestico
+    - [X]  Le potenzialità di FreeNas
         - [X]  ZFS come FileSystem
             - [X]  Robustezza dei dati storati
+            - [X] Differenze tra FreeNas e TrueNas
             - [ ]  Snapshot singoli o Programmati
         - [ ]  Supporto alle VM
         - [ ]  Rindondanza dei dati come Focus
