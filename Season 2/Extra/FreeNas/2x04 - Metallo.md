@@ -48,7 +48,19 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
 
 
 - Processori 
+  - Intel i3-9100f 4Core [Link Amazon](https://amzn.to/3aOFgFc)
+  - Intel Xeon E5-2603 V4 6Core [Link Amazon](https://amzn.to/2TOMgfb)
 - Dischi
+  - WD 6TB Red [Link Amazon](https://amzn.to/38EWenE)
+  - WD 8TB Red [Link Amazon](https://amzn.to/2vjBTWs)
+  - HGST 6TB [Link Amazon](https://amzn.to/2NU9YD1)
+  - Sandisk Penna USB 16GB [Link Amazon](https://amzn.to/2RlvkuZ)
 - Ram (Possibilmente Ecc)
+  - 8GB ECC [Link Amazon](https://amzn.to/2Ggq05V)
 - Case arioso
+  - Cooler Master N300 [Link Amazon](https://amzn.to/2ObBc8n)
 - Scheda madre (Possibilmente ServerMicro)
+  - ServerMicro x11SCL-F0 [Documentazione](https://www.supermicro.com/en/products/motherboard/X11SCL-F) - [Link Amazon](https://amzn.to/3aCU7lS)
+  - SuperMicro All in One [Link Amazon](https://amzn.to/38CU2Nq)
+- Alimentatore
+  - Seasonic 650W Bronze [Link Amazon](https://amzn.to/2vjW1I2)
