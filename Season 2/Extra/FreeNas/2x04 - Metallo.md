@@ -66,3 +66,6 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
   - SuperMicro All in One [Link Amazon](https://amzn.to/38CU2Nq)
 - Alimentatore
   - Seasonic 650W Bronze [Link Amazon](https://amzn.to/2vjW1I2)
+- Dissipatore CPU
+  - Artic Freezer 34 [Link Amazon](https://amzn.to/2uAasqN)
+  - Cooler Master Hyper TX3 [Link Amazon](https://amzn.to/36p1Uk6) 

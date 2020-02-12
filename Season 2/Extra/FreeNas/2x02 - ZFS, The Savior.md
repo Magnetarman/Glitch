@@ -1,4 +1,4 @@
-# ZFS, The Savior
+# ZFS, The Savior [X]
 
 **RAID IS NOT A BACKUP**
 
@@ -51,7 +51,7 @@ ZFS in pratica è tanto potente grazie alla sua gestione inteliggente dei file. 
 
 - Attualmente con la mole di dati prodotta, le connessione non troppo affidabili che abbiamo oggi in italia ed l’aggiornamento continuo dei dati che facciamo rendono spesso il cloud impraticabile
 - Se il servizio decide di vendere i tuoi dati oppure di chiudere potresti avere gravi problemi a tirare giù moli elevate di dati prima dello ShutDown
-- Le app o i servizi Cloud per risparmiare spesso o per dare l’idea di sembrare più intelligenti spesso combinano dei veri disastri durante la sincronizzazione dei dati
+- Le app o i servizi Cloud per risparmiare o per dare l’idea di sembrare più intelligenti spesso combinano dei veri disastri durante la sincronizzazione dei dati
 - Siamo sicuri che i dati dopo un Tot di tempo siano davvero leggibili al 100% sui “Sicuri” servizi Cloud, che seppur minimo hanno comunque un tasso di fallimento elevato se rapportato a quanti dati devono gestire ?
 - Se sei senza connessione internet e devi necessariamente lavorare a qualche progetto che hai sul cloud ?
--Il cloud è sempre da scegliere come backup di secondo o terzo livello, la dove possediate una infrastruttura in grado di supportarla e di disponibilità finanziarie per ottenerlo, che dipende anche dalla quantità di dati che avete da preservare. Sebbene da considerarsi come ‘ulteriore’ backup, c’è sempre da tenere conto, che il cloud ben fatto, è comunque una soluzione, spesso immune ai vari cryptolocker e consente di poter usufruire dei vostri dati ovunque siate nel pianeta. Va sempre tenuto conto che potrebbero essere dati che da un momento all’altro potrebbero scomparire,  o per deficit tecnici, o per chiusura dei servizi. Ma in generale questioni gestibili nei tempi. Oggi i costi di alcuni servizi sono piuttosto interessanti, e se si è nelle condizioni è una cosa che come aggiunta ad un solido backup, può essere considerata.
+- Il cloud è sempre da scegliere come backup di secondo o terzo livello, la dove possediate una infrastruttura in grado di supportarla e di disponibilità finanziarie per ottenerlo, che dipende anche dalla quantità di dati che avete da preservare. Sebbene da considerarsi come ‘ulteriore’ backup, c’è sempre da tenere conto, che il cloud ben fatto, è comunque una soluzione, spesso immune ai vari cryptolocker e consente di poter usufruire dei vostri dati ovunque siate nel pianeta. Va sempre tenuto conto che potrebbero essere dati che da un momento all’altro potrebbero scomparire,  o per deficit tecnici, o per chiusura dei servizi. Ma in generale questioni gestibili nei tempi. Oggi i costi di alcuni servizi sono piuttosto interessanti, e se si è nelle condizioni è una cosa che come aggiunta ad un solido backup, può essere considerata.
