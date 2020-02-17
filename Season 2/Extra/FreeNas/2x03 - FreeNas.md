@@ -1,4 +1,4 @@
-# FreeNas, La Soluzione Definitiva
+# FreeNas, La Soluzione Definitiva [X]
 
 - L’utilizzo di HD predisposti (WD Serie Rossa, HGST) e di Ram ECC (Crucial Preferibile, oppure Kingston) sono consigliati da FreeNas per assicurare insieme a ZFS un’affidabilità vicina al 100% del dato storato nel tempo.
 
@@ -34,6 +34,11 @@ Una volta creati i diversi Dataset per renderli visibili in rete e navigabili da
 
 Potrebbe risultare complicato per i neofiti ma basta inserire il percorso */mnt/NomedelPool/Endpoint* e lasciare le impostazioni di Default.
 
+## Link Utili
+- https://calomel.org/zfs_raid_speed_capacity.html
+- https://www.delphix.com/blog/delphix-engineering/zfs-raidz-stripe-width-or-how-i-learned-stop-worrying-and-love-raidz
+
+
 ## FreeNas Vs. TrueNas
 
 True Nas è sostanzialmente la versione a pagamento di FreeNas. infatti questa versione viene ceduta solo con i server venduti direttamente dalla IXSystems. E' praticamente identica alla versione Free e si discosta per il supporto alle Jail ed alle macchine virtuali assente pre questioni di stabilità e sopratutto in relazione al fatto che la versione a pagamento di FreeNas viene utilizzata sopratutto per lo storage massivo di dati in ambito aziendale e quindi la manipolazione degli stessi per merito dei Plugin non viene per nulla considerata.
@@ -41,3 +46,16 @@ True Nas è sostanzialmente la versione a pagamento di FreeNas. infatti questa v
 Oltre a questa differenza sostanziale ha anche una schedule completamente diversa per quanto riguarda gli aggiornamenti. Infatti mentre FreeNas ha di solito un aggiornamento ogni 6 mesi, TrueNas ha un aggiornamento maggiore ogni anno mentre durante questo tempo viene aggiornato in maniera minore sostanzialmente tramite Bugfix.
 
 Infine tutte le modifiche che arrivano a True Nas sono state precendentemente testate su FreeNas per diverso tempo. Per semplificare ulteriormente il ragionamento FreeNas può considerarsi il ramo Beta/Insider di True Nas, ovviamente questi termini non sono assuluti, in quanto FreeNas dal suo magior Update dalla V 11 in poi, tranne qualche piccolo Bug relativo alla nuova interfaccia proposta basata su Angular non mi ha mai dato nessun tipo di problema di affidabilità.
+
+## Creazione e gestione Utenti in FreeNas
+
+- Come creare un utente/i all'interno di FreeNas e saperli gestire correttamente
+- Creazione e gestione dei gruppi di untenti
+- Breve panoramica sui permessi dei diversi utenti
+
+## Aggiornamento 
+
+- Come aggiornare FreeNas
+  - Come decidere e quando aggiornare FreeNas
+- Corretto processo di Update di FreeNas
+- 
