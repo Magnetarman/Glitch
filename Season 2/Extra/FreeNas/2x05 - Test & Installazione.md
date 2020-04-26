@@ -18,4 +18,24 @@ Dopo aver montanto i pezzi principali del vostro Server (tutto tranne i dischi) 
 
 Installare FreeNas è una procedura relativamente semplice. Infatti dopo aver collegato i dischi che utilizzeremo per ospitare i nostri dati, aver collegato i dischi su cui verrà ospitato il sistema operativo e collegata la Penna USB creata, seguire la procedura prestando attenzione ad installare il sistema nel disco corretto.
 
-Al termine della procedura bisognerà inseire la password dell'account Root, da cui procederemo ad effettuare tutte operazioni. Si consiglia di utlizzare una password abbastanza complessa ma facile da ricordare in quanto la si dovrà inserire ad ogni Login tramite interfaccia Web ed se il nostro server rimarrà in rete locale non esponendosi in alcun modo sulla rete non ci saranno problemi ad utilizzare una password più semplie del solito.
+Al termine della procedura bisognerà inseire la password dell'account Root, da cui procederemo ad effettuare tutte operazioni. Si consiglia di utlizzare una password abbastanza complessa ma facile da ricordare in quanto la si dovrà inserire ad ogni Login tramite interfaccia Web ed se il nostro server rimarrà in rete locale non esponendosi in alcun modo sulla rete non ci saranno problemi ad utilizzare una password più semplice del solito.
+
+Riavviato il server e tolta la chiavetta di installazione, per controllare lo stato della macchina possiamo procedere in 2 modi :
+  - Utilizzare Monitor + Tastiera
+  - Utilizzare il controllo remoto IPMI (Sconsigliato in questa fase)
+
+- Attendere il caricamento del sistema
+- Segnarsi L'ip di uscita della dashboard
+- Collegarsi ed inziare la configurazione di FreeNas
+  - Creazione del o dei Pool
+  - Creazione degli utenti e gruppi
+  - Applicazione delle preferenze
+
+## Installazione - Fase 2
+- Creazione dei dataset
+- Creazione degli endpoint
+- Installazione dei plugin necessari
+- Configurazione dei vari plugin
+-  Avvio dei servizi necessari
+-  Creazione degli shares
+
