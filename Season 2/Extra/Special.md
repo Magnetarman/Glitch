@@ -17,6 +17,10 @@
             - [ ]  Download Automatizzato delle serie tv e film
             - [ ]  Cloud Privato con Next-Cloud
             - [ ]  Bugtracker Personalizzati
-        - [ ]  La scelta dei componenti adatti
-        - [ ]  L'installazione di FreeNas
-        - [ ]  Il setting degli account
+        - [X]  La scelta dei componenti adatti
+        - [X]  L'installazione di FreeNas
+        - [ ]  Il setting degli account ed eventuali gruppi
+        - [ ]  Setting Ridondanza volume di avvio
+        - [ ]  Setting del primo Pool
+        - [ ]  Configurazione dei dataset
+        - [ ]  Installazione e configurazione dei plugin
