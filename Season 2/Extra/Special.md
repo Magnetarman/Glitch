@@ -23,4 +23,3 @@
         - [ ]  Setting Ridondanza volume di avvio
         - [ ]  Setting del primo Pool
         - [ ]  Configurazione dei dataset
-        - [ ]  Installazione e configurazione dei plugin
