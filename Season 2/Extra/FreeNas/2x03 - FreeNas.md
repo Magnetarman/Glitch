@@ -1,4 +1,4 @@
-# FreeNas, La Soluzione Definitiva [X]
+# [X] FreeNas, La Soluzione Definitiva
 
 - L’utilizzo di HD predisposti (WD Serie Rossa, HGST) e di Ram ECC (Crucial Preferibile, oppure Kingston) sono consigliati da FreeNas per assicurare insieme a ZFS un’affidabilità vicina al 100% del dato storato nel tempo.
 
@@ -15,6 +15,7 @@
 - Tenere il dati al sicuro nel tempo tramite il processo di **Scrub**.
 
 - Come Funziona Freenas
+  
   - Cosa sono le Vdevs
   - Diversi tipi di RAID Software
     - Stripe
@@ -35,9 +36,9 @@ Una volta creati i diversi Dataset per renderli visibili in rete e navigabili da
 Potrebbe risultare complicato per i neofiti ma basta inserire il percorso */mnt/NomedelPool/Endpoint* e lasciare le impostazioni di Default.
 
 ## Link Utili
+
 - https://calomel.org/zfs_raid_speed_capacity.html
 - https://www.delphix.com/blog/delphix-engineering/zfs-raidz-stripe-width-or-how-i-learned-stop-worrying-and-love-raidz
-
 
 ## FreeNas Vs. TrueNas
 
@@ -53,7 +54,7 @@ Infine tutte le modifiche che arrivano a True Nas sono state precendentemente te
 - Creazione e gestione dei gruppi di untenti
 - Breve panoramica sui permessi dei diversi utenti
 
-## Aggiornamento 
+## Aggiornamento
 
 - Come aggiornare FreeNas
   - Come decidere e quando aggiornare FreeNas

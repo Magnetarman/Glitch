@@ -1,4 +1,4 @@
-# ZFS, The Savior [X]
+# [X] ZFS, The Savior
 
 **RAID IS NOT A BACKUP**
 

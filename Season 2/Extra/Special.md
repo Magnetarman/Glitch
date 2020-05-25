@@ -1,25 +1,25 @@
 # Speciali Programmati
 
-- [ ]  Il Server Domestico
-    - [X]  A chi può servire un server domestico
-    - [X]  Le potenzialità di FreeNas
-        - [X]  ZFS come FileSystem
-            - [X]  Robustezza dei dati storati
-            - [X] Differenze tra FreeNas e TrueNas
-            - [ ]  Snapshot singoli o Programmati
-        - [ ]  Supporto alle VM
-        - [ ]  Rindondanza dei dati come Focus
-        - [ ]  Moltissimi Plugin
-            - [ ]  Gitlab
-            - [ ]  Plex
-            - [ ]  Transmission
-            - [ ]  Backup PC con e senza cifratura
-            - [ ]  Download Automatizzato delle serie tv e film
-            - [ ]  Cloud Privato con Next-Cloud
-            - [ ]  Bugtracker Personalizzati
-        - [X]  La scelta dei componenti adatti
-        - [X]  L'installazione di FreeNas
-        - [ ]  Il setting degli account ed eventuali gruppi
-        - [ ]  Setting Ridondanza volume di avvio
-        - [ ]  Setting del primo Pool
-        - [ ]  Configurazione dei dataset
+- [ ] Il Server Domestico
+  - [x] A chi può servire un server domestico
+  - [x] Le potenzialità di FreeNas
+    - [x] ZFS come FileSystem
+      - [x] Robustezza dei dati storati
+      - [x] Differenze tra FreeNas e TrueNas
+      - [ ] Snapshot singoli o Programmati
+    - [ ] Supporto alle VM
+    - [ ] Rindondanza dei dati come Focus
+    - [ ] Moltissimi Plugin
+      - [ ] Gitlab
+      - [ ] Plex
+      - [ ] Transmission
+      - [ ] Backup PC con e senza cifratura
+      - [ ] Download Automatizzato delle serie tv e film
+      - [ ] Cloud Privato con Next-Cloud
+      - [ ] Bugtracker Personalizzati
+    - [x] La scelta dei componenti adatti
+    - [x] L'installazione di FreeNas
+    - [ ] Il setting degli account ed eventuali gruppi
+    - [ ] Setting Ridondanza volume di avvio
+    - [ ] Setting del primo Pool
+    - [ ] Configurazione dei dataset

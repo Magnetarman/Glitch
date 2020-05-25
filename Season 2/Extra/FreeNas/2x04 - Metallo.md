@@ -10,7 +10,7 @@ In basso inserisco come esempio da seguire, calcolatrice alla mano del mio serve
 
     Windows = 70% (Prod Plugin Included)
         > 9.8TB Max
-    Mac = 30%
+    Mac = 30%  
         > 4.2TB Max
 
 ## Work - 10 Disk (Raidz3) [33 TB Usable Safe]
@@ -49,10 +49,17 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
 
 - FreeNas viene installato su un disco di piccole dimensioni, solitamente una Sitck USB oppure una SSD di piccole dimensioni (8GB - 120GB MAX) in quanto il sistema in se occupa veramente poco spazio ed è completamente diviso dagli HDD che andranno poi ad ospitare i nostri dati. Inoltre le unità adibite all'installazione del sistema verranno poco sollecitate da letture e scritture in quanto una volta che il sistema ha effettuato il Boot viene completamente caricato in RAM ed opera per il 90% lì. Ovviamente conviene creare un mirror del disco di Boot utilizzando due unità identiche in modo da ridurre la corruzione o la perdita dei dati che pur non essendo critica (i dati importanti sono sugli HDD e possono facilmente essere letti e reimportati anche su sistemi FreeNas differenti, a patto di non essere stati protetti con password prevalentemente.) ci spingirebbe ad effettuare tutta la configurazione del sistema da 0, creando non poche noie negli ambienti più complessi. Comunque periodicamente conviene scaricare un backup della configurazione offline e caricarla su di un nostro Cloud. Essendo del peso di pochi MB è facile da conservare in un luogo relativamente sicuro e su supporti differenti dal nostro server. Salvando la configurazione completa, che il sistema ti fa generare ad ogni aggiornamento vengono inluse anche le eventuali password utilizzate e le chiavi di criptazione adottate per proteggere il contenuto dei dischi. Infatti se qualcosa dovesse andare storto, sia sullo stesso sitema che su un sistema secondario di backup, caricando quei file il sistema potrà leggere senza problemi anche il contenuto protetto dei dischi senza alcuna difficoltà.
 
+- Da una analisi più approfondita emerge che per quanto riguarda True Nas Core e quindi con l'aggiunta ufficiale del supporto alla piattaforma di AMD è possibile ridurre considerevolmente il costo del nostro server a parità di performance in quanto AMD su tutti i suoi processori mantiene attivo il supporto alle memorie ECC
+
 - Processori
+  
   - Intel i3-9100f 4Core [Link Amazon](https://amzn.to/3aOFgFc)
   - Intel Xeon E5-2603 V4 6Core [Link Amazon](https://amzn.to/2TOMgfb)
+  - AMD Ryzen 2600 [Link Amazon](https://amzn.to/2X0QXUn)
+  - AMD Athlon 200GE [Link Amazon](https://amzn.to/2ZB7Czs)
+
 - Dischi
+  
   - WD 3TB Red [Link Amazon](https://amzn.to/2Y8bZRZ)
   - Seagate IronWolf 4TB [Link Amazon](https://amzn.to/3cQcCDC)
   - Seagate IronWolf 8TB [Link Amazon](https://amzn.to/3bHZwrR)
@@ -60,16 +67,26 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
   - WD 8TB Red [Link Amazon](https://amzn.to/2vjBTWs)
   - HGST 6TB [Link Amazon](https://amzn.to/2NU9YD1)
   - Sandisk Penna USB 16GB [Link Amazon](https://amzn.to/2RlvkuZ)
+
 - Ram (Possibilmente Ecc)
+  
   - 8GB ECC [Link Amazon](https://amzn.to/2Ggq05V)
+
 - Case
+  
   - Cooler Master N300 [Link Amazon](https://amzn.to/2ObBc8n)
   - Case Mini ITX
+
 - Scheda madre (Possibilmente ServerMicro)
+  
   - ServerMicro x11SCL-F0 [Documentazione](https://www.supermicro.com/en/products/motherboard/X11SCL-F) - [Link Amazon](https://amzn.to/3aCU7lS)
   - SuperMicro All in One [Link Amazon](https://amzn.to/38CU2Nq)
+
 - Alimentatore
+  
   - Seasonic 650W Bronze [Link Amazon](https://amzn.to/2vjW1I2)
+
 - Dissipatore CPU
+  
   - Artic Freezer 34 [Link Amazon](https://amzn.to/2uAasqN)
   - Cooler Master Hyper TX3 [Link Amazon](https://amzn.to/36p1Uk6) 

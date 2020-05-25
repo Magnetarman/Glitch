@@ -1,4 +1,4 @@
-# Premessa [X]
+# [X] Premessa
 
 Utilizzate il vostro PC solo come untità di elaborazione del vostro materiale e non fateci nessun affidamento in merito al salvataggio ed alla protezione dei dati
 
