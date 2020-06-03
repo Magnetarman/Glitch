@@ -19,7 +19,7 @@
       - [ ] Bugtracker Personalizzati
     - [x] La scelta dei componenti adatti
     - [x] L'installazione di FreeNas
-    - [ ] Il setting degli account ed eventuali gruppi
-    - [ ] Setting Ridondanza volume di avvio
-    - [ ] Setting del primo Pool
-    - [ ] Configurazione dei dataset
+    - [ ] Il setting degli account ed eventuali gruppi (Twitch)
+    - [ ] Setting Ridondanza volume di avvio (Twitch)
+    - [ ] Setting del primo Pool (Twitch)
+    - [ ] Configurazione dei dataset (Twitch)

@@ -1,4 +1,4 @@
-# Metallo
+# [X] Metallo
 
 Per costruire il vostro primo server oltre ai concetti espressi nella premessa conviene preventivamente studiare in maniera analitica quati dati vorrete stoccare all'interno del sistema.
 
@@ -51,7 +51,7 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
 
 - Da una analisi più approfondita emerge che per quanto riguarda True Nas Core e quindi con l'aggiunta ufficiale del supporto alla piattaforma di AMD è possibile ridurre considerevolmente il costo del nostro server a parità di performance in quanto AMD su tutti i suoi processori mantiene attivo il supporto alle memorie ECC
 
-- Processori
+- [X]Processori
   
   - Intel i3-9100f 4Core [Link Amazon](https://amzn.to/3aOFgFc)
   - Intel Xeon E5-2603 V4 6Core [Link Amazon](https://amzn.to/2TOMgfb)
@@ -68,16 +68,16 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
   - HGST 6TB [Link Amazon](https://amzn.to/2NU9YD1)
   - Sandisk Penna USB 16GB [Link Amazon](https://amzn.to/2RlvkuZ)
 
-- Ram (Possibilmente Ecc)
+- [X]Ram (Possibilmente Ecc) [X]
   
   - 8GB ECC [Link Amazon](https://amzn.to/2Ggq05V)
 
 - Case
   
   - Cooler Master N300 [Link Amazon](https://amzn.to/2ObBc8n)
-  - Case Mini ITX
+  - Supermicro CSE-721TQ-250B [Link Amazon](https://amzn.to/2yWH3Kd)
 
-- Scheda madre (Possibilmente ServerMicro)
+- [X]Scheda madre (Possibilmente ServerMicro)
   
   - ServerMicro x11SCL-F0 [Documentazione](https://www.supermicro.com/en/products/motherboard/X11SCL-F) - [Link Amazon](https://amzn.to/3aCU7lS)
   - SuperMicro All in One [Link Amazon](https://amzn.to/38CU2Nq)
