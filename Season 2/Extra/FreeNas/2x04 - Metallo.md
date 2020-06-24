@@ -58,7 +58,7 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
   - AMD Ryzen 2600 [Link Amazon](https://amzn.to/2X0QXUn)
   - AMD Athlon 200GE [Link Amazon](https://amzn.to/2ZB7Czs)
 
-- Dischi
+- [X]Dischi
   
   - WD 3TB Red [Link Amazon](https://amzn.to/2Y8bZRZ)
   - Seagate IronWolf 4TB [Link Amazon](https://amzn.to/3cQcCDC)
@@ -72,7 +72,7 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
   
   - 8GB ECC [Link Amazon](https://amzn.to/2Ggq05V)
 
-- Case
+- [X]Case
   
   - Cooler Master N300 [Link Amazon](https://amzn.to/2ObBc8n)
   - Supermicro CSE-721TQ-250B [Link Amazon](https://amzn.to/2yWH3Kd)
@@ -82,11 +82,11 @@ Ovviamente lo Spazio è solo una delle problematiche che dovremmo affrontare qua
   - ServerMicro x11SCL-F0 [Documentazione](https://www.supermicro.com/en/products/motherboard/X11SCL-F) - [Link Amazon](https://amzn.to/3aCU7lS)
   - SuperMicro All in One [Link Amazon](https://amzn.to/38CU2Nq)
 
-- Alimentatore
+- [X]Alimentatore
   
   - Seasonic 650W Bronze [Link Amazon](https://amzn.to/2vjW1I2)
 
-- Dissipatore CPU
+- [X]Dissipatore CPU 
   
   - Artic Freezer 34 [Link Amazon](https://amzn.to/2uAasqN)
   - Cooler Master Hyper TX3 [Link Amazon](https://amzn.to/36p1Uk6) 
