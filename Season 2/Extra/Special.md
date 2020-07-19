@@ -11,12 +11,12 @@
     - [x] Rindondanza dei dati come Focus
     - [x] Moltissimi Plugin
       - [x] Gitlab
-      - [ ] Plex
-      - [ ] Transmission
-      - [ ] Backup PC con e senza cifratura
-      - [ ] Download Automatizzato delle serie tv e film
-      - [ ] Cloud Privato con Next-Cloud
-      - [ ] Bugtracker Personalizzati
+      - [x] Plex
+      - [x] Transmission
+      - [x] Backup PC con e senza cifratura
+      - [x] Download Automatizzato delle serie tv e film
+      - [x] Cloud Privato con Next-Cloud
+      - [x] Bugtracker Personalizzati
     - [x] La scelta dei componenti adatti
     - [x] L'installazione di FreeNas
     - [ ] Il setting degli account ed eventuali gruppi (Twitch)
