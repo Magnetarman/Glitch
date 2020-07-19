@@ -6,11 +6,11 @@
     - [x] ZFS come FileSystem
       - [x] Robustezza dei dati storati
       - [x] Differenze tra FreeNas e TrueNas
-      - [ ] Snapshot singoli o Programmati
-    - [ ] Supporto alle VM
-    - [ ] Rindondanza dei dati come Focus
-    - [ ] Moltissimi Plugin
-      - [ ] Gitlab
+      - [x] Snapshot singoli o Programmati
+    - [x] Supporto alle VM
+    - [x] Rindondanza dei dati come Focus
+    - [x] Moltissimi Plugin
+      - [x] Gitlab
       - [ ] Plex
       - [ ] Transmission
       - [ ] Backup PC con e senza cifratura
