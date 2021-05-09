@@ -1,0 +1,7 @@
+# Extra - "Tutta colpa di un Film!"
+
+- Avevo 3 anni e mezzo (siamo nel 1997) un periodo che ricordo solo tramite foto e vari flashback. Noleggio insieme a mia mamma una cassetta di un film che volevo assolutamente vedere e che avrebbe cambiato la mia vita, il terzo capitolo di ritorno al futuro.
+- Nella successiva settimana successiva al noleggio, appena tornato da scuola guardo almeno una volta al giorno quel dannato film. Consumo letteralmente la cassetta, tanto da spingere i miei genitori a farne una copia "pirata" da utizzare per non danneggiare troppo quella del video noleggio.
+- Naturalmente leggendo il 3 capisco che di quel film ce ne sia anche un primo ed un secondo e chiedo ai miei genitori insistentemente di provare a recuperarli in VHS, da lì rimango letteralmente folgorato dalla saga, tanto da passare il successivo anno a disegnare continuamente la delorean, con tanto di alcune modifiche che avrei voluto apportare per renderla più "mia" rispetto a quella del film.
+- Aggiungo modifiche soprattutto funzionale, come propulsori in grado rendere quell'auto una navicella spaziale oltre che una macchina del tempo, dimenticandomi a causa della giovane età di tutta la parte legata al supporto vitale nello spazio profondo, che avrebbe causato una morte prematura e molto brutta all'occupante appena avrebbe lasciato l'atmosfera del nostro pianeta
+- Li i miei genitori si accorgono che "da grande" avrei potuto fare un lavoro "complicato" 
